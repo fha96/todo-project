@@ -1,0 +1,60 @@
+h1{
+    margin: 0%;
+    background-color: aliceblue;
+}
+.ul1{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: auto;
+    background-color: black;
+}
+
+.ul1 li{
+    float: left;
+}
+.ul1 li a{
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: underline;
+}
+.ul1 li a:hover {
+    background-color: silver;
+}
+main{
+    background-color: slategrey;
+}
+
+.ul2 {
+    position: relative;
+    margin-left: 25%;
+    margin-top: -22%;
+    font-size: 25px;
+    list-style-position: outside;
+    list-style-type: circle;
+    white-space: pre-wrap;
+}
+#sc1 img{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#sc2{
+    padding-bottom: 20%;
+}
+#sc2 p{
+    font-size: 20px;
+}
+footer{
+    padding: 10px;
+    bottom: 0%;
+    position: fixed;
+    text-align: center;
+    background-color: yellowgreen;
+    width: 100%;
+}
+
+.logo{
+    float: left;
+    
+}

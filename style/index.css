@@ -1,0 +1,58 @@
+h1{
+    margin: 0%;
+    
+    background-color: silver;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: auto;
+    background-color: black;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: rgba(192, 192, 192, 0.19);
+}
+h2{
+    color: black;
+    font-size: 40px;
+}
+table {
+    width: 60%;
+    height:50%;
+}
+table , tr , th ,td{
+    border:2px solid black;
+}
+#my-table{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+input{
+    width: auto;
+}   
+footer{
+    padding: 10px;
+    bottom: 0%;
+    position: fixed;
+    text-align: center;
+    background-color: yellowgreen;
+    width: 100%;
+}
+.img1{
+    margin-left: 70%;
+}
+.logo{
+    float: left;
+    
+}
